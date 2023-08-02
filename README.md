@@ -46,10 +46,7 @@ This setup requires a bit of familiarity with creating a working deep learning e
         pip install jupyterlab
 		jupyter lab
 	```
-
-### Ready to submit your project?
-
-Click on the "Submit Project" button in the classroom and follow the instructions to submit!
+ 
 
 ## Dataset Info
 
