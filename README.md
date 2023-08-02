@@ -42,10 +42,10 @@ This setup requires a bit of familiarity with creating a working deep learning e
 
 4. Install and open Jupyter lab:
 	
-	```
+    ```
         pip install jupyterlab
 	jupyter lab
-	```
+    ```
 
 ## Checkpoints
 
