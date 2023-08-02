@@ -46,8 +46,10 @@ This setup requires a bit of familiarity with creating a working deep learning e
         pip install jupyterlab
 		jupyter lab
 	```
- 
 
+## Checkpoints
+
+The Pre-Trained checkpoints can be found [here](https://drive.google.com/drive/folders/1rd3lHtKcncyhT46j0ZcIWOP8j8Juw7h0?usp=sharing)
 ## Dataset Info
 
 The landmark images are a subset of the Google Landmarks Dataset v2.
