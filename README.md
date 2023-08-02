@@ -21,18 +21,18 @@ This setup requires a bit of familiarity with creating a working deep learning e
 1. Open a terminal and clone the repository, then navigate to the downloaded folder:
 	
 	```	
-		git clone https://github.com/udacity/cd1821-CNN-project-starter.git
-		cd cd1821-CNN-project-starter
+		git clone https://github.com/chiranjeev-21/chiranjeev-21-LandMark-Lens-Intelligent-Landmark-Classification-and-Recognition.git
+		cd chiranjeev-21-LandMark-Lens-Intelligent-Landmark-Classification-and-Recognition
 	```
     
 2. Create a new conda environment with python 3.7.6:
 
     ```
-        conda create --name udacity_cnn_project -y python=3.7.6
-        conda activate udacity_cnn_project
+        conda create --name cnn_project -y python=3.7.6
+        conda activate cnn_project
     ```
     
-    NOTE: you will have to execute `conda activate udacity_cnn_project` for every new terminal session.
+    NOTE: you will have to execute `conda activate cnn_project` for every new terminal session.
     
 3. Install the requirements of the project:
 
@@ -44,7 +44,7 @@ This setup requires a bit of familiarity with creating a working deep learning e
 	
 	```
         pip install jupyterlab
-		jupyter lab
+	jupyter lab
 	```
 
 ## Checkpoints
