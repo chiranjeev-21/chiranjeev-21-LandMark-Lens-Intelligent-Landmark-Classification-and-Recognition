@@ -21,8 +21,8 @@ This setup requires a bit of familiarity with creating a working deep learning e
 1. Open a terminal and clone the repository, then navigate to the downloaded folder:
 	
     ```	
-		git clone https://github.com/chiranjeev-21/chiranjeev-21-LandMark-Lens-Intelligent-Landmark-Classification-and-Recognition.git
-		cd chiranjeev-21-LandMark-Lens-Intelligent-Landmark-Classification-and-Recognition
+	git clone https://github.com/chiranjeev-21/chiranjeev-21-LandMark-Lens-Intelligent-Landmark-Classification-and-Recognition.git
+	cd chiranjeev-21-LandMark-Lens-Intelligent-Landmark-Classification-and-Recognition
     ```
     
 2. Create a new conda environment with python 3.7.6:
