@@ -20,9 +20,9 @@ This setup requires a bit of familiarity with creating a working deep learning e
 
 1. Open a terminal and clone the repository, then navigate to the downloaded folder:
 	
-    ```	
-	conda create --name cnn_project -y python=3.7.6
-        conda activate cnn_project
+    ```
+       conda create --name cnn_project -y python=3.7.6
+       conda activate cnn_project
     ```
     
 2. Create a new conda environment with python 3.7.6:
