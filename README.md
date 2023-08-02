@@ -21,16 +21,15 @@ This setup requires a bit of familiarity with creating a working deep learning e
 1. Open a terminal and clone the repository, then navigate to the downloaded folder:
 	
     ```
-       conda create --name cnn_project -y python=3.7.6
-       conda activate cnn_project
+       git clone https://github.com/chiranjeev-21/chiranjeev-21-LandMark-Lens-Intelligent-Landmark-Classification-and-Recognition.git
+       cd chiranjeev-21-LandMark-Lens-Intelligent-Landmark-Classification-and-Recognition
     ```
     
 2. Create a new conda environment with python 3.7.6:
 
     ```
-        
-    	git clone https://github.com/chiranjeev-21/chiranjeev-21-LandMark-Lens-Intelligent-Landmark-Classification-and-Recognition.git
-	cd chiranjeev-21-LandMark-Lens-Intelligent-Landmark-Classification-and-Recognition
+       conda create --name cnn_project -y python=3.7.6
+       conda activate cnn_project
     ```
     
     NOTE: you will have to execute `conda activate cnn_project` for every new terminal session.
@@ -44,8 +43,8 @@ This setup requires a bit of familiarity with creating a working deep learning e
 4. Install and open Jupyter lab:
 	
     ```
-        pip install jupyterlab
-	jupyter lab
+       pip install jupyterlab
+       jupyter lab
     ```
 
 ## Checkpoints
